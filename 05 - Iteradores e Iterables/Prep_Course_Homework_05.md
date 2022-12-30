@@ -45,3 +45,5 @@ lis = [18,21,29,32,35,42,56,60,63,71,84,90,91,100]
 lis = [[1,2,3,4],'rojo','verde',[True,False,False],['uno','dos','tres']]
 
 16) Tomar la lista del punto anterior y convertir cada elemento en una lista si no lo es
+
+asdasdadsadsadsadsadasd
